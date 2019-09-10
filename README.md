@@ -1,2 +1,2 @@
 # SAPPOJavaMaps
-Java Maps built for SAP PO
+Java Maps built for SAP Process Orchestration (SAP PO)
